@@ -1,0 +1,30 @@
+header {
+  color: Peru;
+  background-color: #d9e4dd;
+  border-bottom: 1px solid #e7e7e7;
+  padding: 10px;
+  font-family: "Poppins";
+  display: flex;
+}
+
+main {
+  background-color: #fbf7f0;
+}
+
+footer {
+  background-color: #d9e4dd;
+  margin-top: auto;
+  font-family: "Poppins";
+  text-align: center;
+  flex-direction: column;
+
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+.form {
+  padding: 15px;
+  border-radius: 2px;
+  text-align: center;
+}

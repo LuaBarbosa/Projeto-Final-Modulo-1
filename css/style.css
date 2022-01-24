@@ -19,6 +19,11 @@ img {
   width: 300px;
 }
 
+#person {
+  height: 150px;
+  width: 200px;
+}
+
 header li {
   list-style: none;
 }
